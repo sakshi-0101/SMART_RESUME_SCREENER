@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bb4605fe-361f-4520-9034-e39e7b41b149" /># 🚀 AI Resume Screener
+ 🚀 AI Resume Screener
 
 An intelligent **AI-powered Resume Screening Web App** that matches resumes with job descriptions using **NLP, TF-IDF, BERT, and Skill Extraction**.
 
