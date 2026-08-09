@@ -45,6 +45,7 @@ Smart_Resume_Screener/
 ├── skills.py            # Skill extraction logic
 ├── data/                # (Optional) saved outputs
 ├── requirements.txt     # Dependencies
+├── Dockerfile           # Dockerfile
 └── README.md
 ```
 
